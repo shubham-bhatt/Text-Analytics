@@ -1,0 +1,13 @@
+WORK -->
+
+I had 16 pdfs
+one pdf is one page and only consist info like name of the articles and authors names, so this is not that much useful for analysis so leave it for now!
+All the task below are completed using the different python libraries, please go through the codes.
+other 15 pdf --> divided 3 set of all consist 5 pdfs
+Then I analyze some page on each pdf  is rotated; I marked then, remove from the main pdf, rotate them in the right way & add back to the same location using python
+Next step is pdf to text formate - 3 text files
+Then clean/preprocessing text of each file and save in new three text files
+then read that data, collect words that occur more than 13 times from the collection of total words (all words from all pdfs) --> use different python library to check similarities between words, fix similarity that makes more sense for that collection of words and make excel file, where each column represents somehow related words to each other.
+
+Result
+two excel files "6. Result_KMeansClusterer.xlsx" and "7. Result_Dict_column.xlsx" by two different methods, in which each column represents somehow related words to each other.
